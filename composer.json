@@ -1,8 +1,8 @@
 {
     "$schema": "https://getcomposer.org/schema.json",
-    "name": "laravel/react-starter-kit",
+    "name": "ldriko/laravel-clean-react",
     "type": "project",
-    "description": "The skeleton application for the Laravel framework.",
+    "description": "A Clean Laravel + Inertia + React + Shadcn Starter Kit",
     "keywords": [
         "laravel",
         "framework"
